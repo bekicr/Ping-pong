@@ -15,13 +15,13 @@ A simple and fun single-player Ping Pong game built using Python and the Tkinter
 3. The ball will start from the top and move in a random direction.
 4. Keep the ball in play and try to achieve the highest number of bounces.
 5. If the ball goes out of bounds (bottom of the screen), press the "Try Again" button to reset the game.
-
 ## Installation and Setup
 1. Make sure you have Python installed on your system. [Download Python](https://www.python.org/downloads/)
 2. Clone this repository or download the source code:
    ```bash
-   git clone https://github.com/your-username/ping-pong-game.git
-   cd ping-pong-game
+   git clone https://github.com/your-username/pingpong.git
+   cd pingpong/game
+
 ## run the game using
   ```bash
-python ping_pong_game.py 
+python pingpong.py 
